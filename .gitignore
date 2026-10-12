@@ -1,0 +1,4 @@
+
+# Server-specific settings (connection string, mailer, keys): never commit
+appsettings.Local.json
+logs/
